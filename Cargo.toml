@@ -21,7 +21,7 @@ readme = "README.md"
 # This is a list of up to five keywords that describe this crate. Keywords
 # are searchable on crates.io, and you may choose any words that would
 # help someone find this crate.
-keywords = ["thesaurus", "synonyms", "antonyms", "dicionary", "alfred", "mac"]
+keywords = ["thesaurus", "synonyms", "antonyms", "alfred", "mac"]
 
 # This is a string description of the license for this package. Currently
 # crates.io will validate the license provided against a whitelist of known
