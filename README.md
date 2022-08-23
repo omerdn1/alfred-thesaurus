@@ -1,8 +1,8 @@
 # alfred-thesaurus
 Alfred workflow for finding synonyms and antonyms of words written in Rust
 
-<p align="center"><a href="https://github.com/omerdn1/alfred-thesaurus/releases/"><img src="screenshot_syn.png" height="577" width="400"/></a></p>
-<p align="center"><a href="https://github.com/omerdn1/alfred-thesaurus/releases/"><img src="screenshot_alt.png" height="577" width="400"/></a></p>
+<p align="center"><a href="https://github.com/omerdn1/alfred-thesaurus/releases/"><img src="screenshot_syn.png" height="400" width="577"/></a></p>
+<p align="center"><a href="https://github.com/omerdn1/alfred-thesaurus/releases/"><img src="screenshot_ant.png" height="400" width="577"/></a></p>
 
 ## Commands
 
